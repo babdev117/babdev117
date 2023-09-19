@@ -9,6 +9,7 @@ I enjoy using python and SQL to tackle the majority of these challenges but have
 * 📅 SQL
 * 🚣‍♂️ Excel/VBA
 * ☕ JavaScript
+* 🖥️ HTML/CSS/JS
 
 ## Examples of Work
 <img src ="https://github.com/babdev117/babdev117/blob/main/agast.gif" width = "256">
