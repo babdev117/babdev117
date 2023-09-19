@@ -1,10 +1,10 @@
-## Boston Beason
+### Boston Beason
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 I'm Boston from Texas, USA. I utilize data science and software engineering to help solve the engineering problems I encounter in the real world. In an effort to create more safe, efficient and economic operations for Operators. 
 
 I enjoy using python and SQL to tackle the majority of these challenges but have the goal of digging into web/app/full stack development for side projects ("pssst, do you wonna help create an app to get golfers into private courses without being a member? Hit me up with your ideas")
 
-## Skills and Experience
+### Skills and Experience
 <img align="left" alt="python" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="python" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img align="left" alt="python" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -12,7 +12,7 @@ I enjoy using python and SQL to tackle the majority of these challenges but have
 <img align="left" alt="python" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <br />
 
-## Examples of Work
+### Examples of Work
 <img src ="https://github.com/babdev117/babdev117/blob/main/agast.gif" width = "256">
 
 
