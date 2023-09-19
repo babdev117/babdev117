@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,  I am Boston Beason
 
 I'm Boston from Texas, USA. I utilize data science and software engineering to help solve the engineering problems I encounter in the real world. In an effort to create more safe, efficient and economic operations for Operators. 
 
@@ -7,7 +7,8 @@ I enjoy using python and SQL to tackle the majority of these challenges but have
 ##Skills and Experience
 * 🐍 Python
 * 📅 SQL
-* ![HappyFaceExcelGIF](https://github.com/babdev117/babdev117/assets/145386670/34de6893-630c-4f17-a3d8-17c32da1938a) VBA
+* 🚣‍♂️ Excel/VBA
+* ☕ JavaScript
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babdev117)](https://github.com/anuraghazra/github-readme-stats)
