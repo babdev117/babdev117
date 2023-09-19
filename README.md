@@ -11,7 +11,7 @@ I enjoy using python and SQL to tackle the majority of these challenges but have
 <img align="left" alt="python" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="python" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />      
 <img align="left" alt="python" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
+<br />
 
 ## Examples of Work
 <img src ="https://github.com/babdev117/babdev117/blob/main/agast.gif" width = "256">
