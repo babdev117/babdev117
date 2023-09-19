@@ -6,7 +6,10 @@ I'm Boston from Texas, USA. I utilize data science and software engineering to h
 I enjoy using python and SQL to tackle the majority of these challenges but have the goal of digging into web/app/full stack development for side projects ("pssst, do you wonna help create an app to get golfers into private courses without being a member? Hit me up with your ideas")
 
 ## Skills and Experience
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="python" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="python" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="python" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
 
 * 📅 SQL
 * 🚣‍♂️ Excel/VBA
