@@ -4,6 +4,11 @@ I'm Boston from Texas, USA. I utilize data science and software engineering to h
 
 I enjoy using python and SQL to tackle the majority of these challenges but have the goal of digging into web/app/full stack development for side projects ("pssst, do you wonna help create an app to get golfers into private courses without being a member? Hit me up with your ideas")
 
+##Skills and Experience
+* 🐍 Python
+* 📅 SQL
+* ![HappyFaceExcelGIF](https://github.com/babdev117/babdev117/assets/145386670/34de6893-630c-4f17-a3d8-17c32da1938a) VBA
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babdev117)](https://github.com/anuraghazra/github-readme-stats)
 
