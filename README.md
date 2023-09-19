@@ -10,6 +10,9 @@ I enjoy using python and SQL to tackle the majority of these challenges but have
 * 🚣‍♂️ Excel/VBA
 * ☕ JavaScript
 
+## Examples of Work
+<img src ="https://github.com/babdev117/babdev117/blob/main/agast.gif" width = "256">
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babdev117)](https://github.com/anuraghazra/github-readme-stats)
 
