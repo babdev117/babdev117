@@ -1,10 +1,10 @@
-#Boston Beason
+# Boston Beason
 
 I'm Boston from Texas, USA. I utilize data science and software engineering to help solve the engineering problems I encounter in the real world. In an effort to create more safe, efficient and economic operations for Operators. 
 
 I enjoy using python and SQL to tackle the majority of these challenges but have the goal of digging into web/app/full stack development for side projects ("pssst, do you wonna help create an app to get golfers into private courses without being a member? Hit me up with your ideas")
 
-##Skills and Experience
+## Skills and Experience
 * 🐍 Python
 * 📅 SQL
 * 🚣‍♂️ Excel/VBA
