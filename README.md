@@ -1,4 +1,4 @@
-### Hi there,  I am Boston Beason
+#Boston Beason
 
 I'm Boston from Texas, USA. I utilize data science and software engineering to help solve the engineering problems I encounter in the real world. In an effort to create more safe, efficient and economic operations for Operators. 
 
